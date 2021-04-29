@@ -766,7 +766,16 @@ sites:
     maintainers:
       - "[Koen Martens](mailto:koen.martens@wur.nl)"
       - "[Johannes Hohlbein](mailto:johannes.hohlbein@wur.nl)"
-
+      
+  - name: "HPC-ParallelTools"
+    id: "HPC-ParallelTools"
+    url: "https://sites.imagej.net/HPC-ParallelTools/"
+    description: >-
+      ImageJ plugins from research group involved in the project Path to
+      Exascale IT4Innovations:<ul><li> HPC Workflow Manager.</li></ul>
+    maintainers:
+      - "[Jan Kožusznik](mailto:jan@kozusznik.cz)"
+ 
   - name: "IamMM"
     id: "IamMM"
     url: "https://sites.imagej.net/IamMM/"
